@@ -32,7 +32,6 @@ private EntityManager entityManager;
 
 	@Override
 	public boolean cancelPlacement(int id) {
-		// TODO Auto-generated method stub
 		return false;
 	}
 

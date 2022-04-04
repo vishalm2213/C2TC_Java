@@ -36,7 +36,6 @@ public class IPlacementServiceImpl implements IPlacementService {
 
 	@Override
 	public boolean cancelPlacement(int id) {
-		// TODO Auto-generated method stub
 		return false;
 	}
 
