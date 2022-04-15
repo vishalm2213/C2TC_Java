@@ -5,7 +5,8 @@ import javax.persistence.EntityManager;
 import com.cg.placementmanagement.entity.Placement;
 
 public class IPlacementRepositoryImpl implements IPlacementRepository {
-private EntityManager entityManager;
+
+	private EntityManager entityManager;
 	
 	public IPlacementRepositoryImpl()
 	{
